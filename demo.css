@@ -267,7 +267,6 @@ ol.linenums {
   color: #1abc9c;
 }
 .demo-browser {
-  background: #2c3e50 url(../images/demo/browser.png) 0 0 no-repeat;
   background-size: 659px 42px;
   color: #ffffff;
   margin: 0 41px 140px 0;
@@ -295,7 +294,6 @@ ol.linenums {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 .demo-browser-author {
-  background: url(../images/demo/browser-author.jpg) center no-repeat;
   border: 3px solid #ffffff;
   display: block;
   height: 84px;
